@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rukesh!
-👩🏻‍💻 Software Engineer student sharing about my journey and learnings in tech.<br/>
+👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studying at the SRM University.<br/>
 💭 Currently learning about web development and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
