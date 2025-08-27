@@ -5,7 +5,7 @@
 
 # 💻 Tech Stack
 <a href="https://html.com" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
-<a href="(https://www.w3schools.com/css/)" target="_blank">![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="https://www.w3schools.com/css/" target="_blank">![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 
 # 📊 GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rukesh-m&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rukesh's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukesh-m&layout=compact&theme=radical&hide_border=true" /> |
