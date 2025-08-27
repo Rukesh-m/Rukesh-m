@@ -9,6 +9,7 @@
 - [ ] git
 - [ ] sql
 - [ ] GraphQL
+- [ ] Flutter
 - [ ] basic ML knowledge
 
 # 💻 Tech Stack
