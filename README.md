@@ -2,7 +2,7 @@
 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studying at the SRM University.<br/>
 💭 Currently learning about [javascript](https://www.javascript.com) and [Tailwind](https://tailwindcss.com)!<br/>
-✏️ Goals to complete in 2nd year of college:
+📚 Goals to complete in 2nd year of college:
 - [ ] javascript
 - [ ] Tailwind
 - [ ] React
