@@ -9,7 +9,7 @@
 - [ ] git
 - [ ] sql
 - [ ] GraphQL
-- [ ] basic Ml knowledge
+- [ ] basic ML knowledge
 
 # 💻 Tech Stack
 <a href="https://html.com" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
