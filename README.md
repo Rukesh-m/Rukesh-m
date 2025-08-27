@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Rukesh!
 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studying at the SRM University.<br/>
-💭 Currently learning about web development and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+💭 Currently learning about [javascript](https://www.javascript.com) and [Tailwind](https://tailwindcss.com)!<br/>
 
 # 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="https://html.com" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="(https://www.w3schools.com/css/)" target="_blank">![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 
 # 📊 GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rukesh-m&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rukesh's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukesh-m&layout=compact&theme=radical&hide_border=true" /> |
