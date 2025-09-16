@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Rukesh!
+# 👋🏻 Hi, I'm Rukesh!
 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studying at the SRM University.<br/>
 💭 Currently learning about [javascript](https://www.javascript.com) and [React](https://react.dev)!<br/>
-📚 Goals to complete in 2nd year of college: javascript,React,Tailwind,git,sql,GraphQL,Flutter,basic ML knowledge
+📚 Goals to complete in 2nd year of college: javascript, React, Tailwind, git, sql, GraphQL, Flutter, basic ML knowledge
 
 # 💻 Tech Stack
 <a href="https://html.com" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rukesh-m&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
